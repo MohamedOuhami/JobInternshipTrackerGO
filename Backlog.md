@@ -27,19 +27,19 @@ It will be divided into 4 main parts :
 - [ ] Get User's info
 
 ## CRUD Jobs Internships
-- [ ] Create a new Job / Internship
-- [ ] Edit a Job / Internship
-- [ ] Delete a Job / Internship
-- [ ] Get a Job / Internship info
-- [ ] Get all Job / Internships of a user
+- [X] Create a new Job / Internship
+- [X] Edit a Job / Internship
+- [X] Delete a Job / Internship
+- [X] Get a Job / Internship info
+- [X] Get all Job / Internships of a user
 
 ## CRUD Opportunities
-- [ ] Create a new Opportunity
-- [ ] Edit a Opportunity 
-- [ ] Delete an Opportunity 
-- [ ] Get a Opportunity 
-- [ ] Turn an Opportunity into a Job / Internship
-- [ ] Get all the user's opporunities
+- [X] Create a new Opportunity
+- [X] Edit a Opportunity 
+- [X] Delete an Opportunity 
+- [X] Get a Opportunity 
+- [X] Turn an Opportunity into a Job / Internship
+- [X] Get all the user's opporunities
 
 ## CRUD Admin panel
 - [ ] Get all the users
