@@ -13,7 +13,7 @@ It will be divided into 4 main parts :
 ## Setup the database
 - [X] Connect the app to my database
 - [X] Create the tables
-- [ ] Test the integration
+- [X] Test the integration
 
 ## Authentication and Registering
 - [X] Registering new users in the app
@@ -43,8 +43,8 @@ It will be divided into 4 main parts :
 
 ## CRUD Admin panel
 - [ ] Get all the users
-- [ ] Get all Jobs
-- [ ] Get all Opportunities
-- [ ] Get all the user's opporunities
-- [ ] Get all the user's jobs 
+- [X] Get all Jobs
+- [X] Get all Opportunities
+- [X] Get all the user's opporunities
+- [X] Get all the user's jobs 
 - [ ] Delete Users
